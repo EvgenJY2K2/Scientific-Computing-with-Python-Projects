@@ -14,7 +14,7 @@ if h <= 40:
 else:
     print ((h-40)*1.5*r + 40*r)
 ```
-###### Task 2: Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error. <br> If the score is between 0.0 and 1.0, print a grade.
+###### Task 2: Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error. If the score is between 0.0 and 1.0, print a grade.
 ```
 score = input("Enter Score: ")
 try:
