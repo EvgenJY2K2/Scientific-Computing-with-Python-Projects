@@ -4,7 +4,7 @@
 
 Here you can find all of the code that I have written while taking the "Scientific Computing with Python" course on CodeCamp. <br/> I have sorted out my code by specific topics, which you can find in the below section.
 
-:electron: Hope you will find some of it helpful or interesting!
+:electron: Hope you will find it helpful or interesting!
 
 
 ### Table of Contents
