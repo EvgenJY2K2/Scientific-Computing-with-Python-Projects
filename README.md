@@ -2,7 +2,7 @@
 
 :wave:Hello!  
 
-Here you will find all of the code that I have written while taking the "Scientific Computing with Python" course on CodeCamp. <br/> I have sorted out my code by specific topics, which you can easily access through the contents section.
+Here you will find all of the code that I have written while taking the "Scientific Computing with Python" course on CodeCamp and also the certification projects that I am currently working on. <br/> I have sorted out my code by specific topics, which you can easily access through the contents section.
 
 :electron: Hope you will find it helpful or interesting!
 
