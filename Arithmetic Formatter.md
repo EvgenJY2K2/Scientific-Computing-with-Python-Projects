@@ -1,9 +1,13 @@
 ## Certification projects - Arithmetic Formatter
-###### About the project: It is a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function optionally takes a second argument. When the second argument is set to True, the answers are displayed.
+**About the project:**
+
+It is a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function optionally takes a second argument. When the second argument is set to True, the answers are displayed.
+
+
 ```
 def arithmetic_arranger(problems, *solutions):
     
-    #Limit to the number of broblems is five.
+    #Limit to the number of problems is five.
     if len(problems) > 5:
         return "Error: Too many problems."
 
@@ -80,3 +84,4 @@ def arithmetic_arranger(problems, *solutions):
     
     return output
 ```
+You can find more info about this challenge on CodeCamp: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
