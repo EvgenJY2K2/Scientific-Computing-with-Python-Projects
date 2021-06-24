@@ -7,7 +7,7 @@ Here you will find all of the code that I have written while taking the "Scienti
 :electron: Hope you will find it helpful or interesting!
 
 
-### Table of Contents
+### Course projects:
 
 * [Intermediate Expressions](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Intermediate%20Expressions.md)  
 * [Conditional Execution](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Conditional%20Execution.md)
@@ -24,6 +24,8 @@ Here you will find all of the code that I have written while taking the "Scienti
 * [Python Objects](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Python%20Objects.md)
 * [Relational Databases and SQLite](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Relational%20Databases%20and%20SQLite.md)
 
+### Certification projects:
+* [Arithmetic Formatter](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Arithmetic%20Formatter.md)
 
 ℹ️About the course "Scientific Computing with Python" (Python for everybody) 
 
