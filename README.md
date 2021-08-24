@@ -26,6 +26,7 @@ Here you will find all of the code that I have written while taking the "Scienti
 
 ### Certification projects:
 * [Arithmetic Formatter](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Arithmetic%20Formatter.md)
+* [Time Calculator](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Time%20Calculator.md)
 
 ℹ️About the course "Scientific Computing with Python" (Python for everybody) 
 
