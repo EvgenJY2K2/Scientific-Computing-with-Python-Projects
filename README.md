@@ -29,6 +29,7 @@ Here you will find all of the code that I have written while taking the "Scienti
 * [Time Calculator](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Time%20Calculator.md)
 * [Budget App](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Budget%20App.md)
 * [Polygon Area Calculator](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Polygon%20Area%20Calculator.md)
+* [Probability Calculator](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Probability%20Calculator.md)
 
 ℹ️About the course "Scientific Computing with Python" (Python for everybody) 
 
